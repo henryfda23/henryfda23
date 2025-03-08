@@ -1,7 +1,7 @@
 ## Hi guys
 
 - 📓Studying ADS
-- 💻Learning JS and Python
+- 💻Learning JS
 
 <div>
   <a href="https://github.com/henryfda23">
