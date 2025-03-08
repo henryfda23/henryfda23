@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/henryfda23">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=henryfda23&show_icons=true&theme=radical)">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryfda">
+  <img height="160em" weight="100em" src="https://github-readme-stats.vercel.app/api?username=henryfda23&show_icons=true&theme=radical)">
+  <img height="160em" weight="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryfda">
 </div>
 
 <div style="display: inline_block"><br>
