@@ -1,12 +1,10 @@
-## Hi guys
-
-- 📓Studying ADS
-- 💻Learning JS
+# Hello everyone, welcome to my profile
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"> 
 
 <div>
-  <a href="https://github.com/henryfda23">
-  <img height="160em" weight="100em" src="https://github-readme-stats.vercel.app/api?username=henryfda23&show_icons=true&theme=radical)">
-  <img height="160em" weight="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryfda">
+   <a href="https://github.com/henryfda23">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henryfda23&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryfda23&layout=compact&langs_count=6&theme=midnight-purple"/>
 </div>
 
 <div style="display: inline_block"><br>
