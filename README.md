@@ -13,6 +13,8 @@
   <img align="center" alt="Henry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Henry-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Henry-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Henry-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/react-original.svg">
+  <img align="center" alt="Henry-reactnative" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/reactnative-original.svg">
 </div>
   
   #
