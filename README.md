@@ -10,9 +10,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  
-<!--- # "Verify icons availability here https://github.com/tandpfun/skill-icons" -->
-
+   
 [![My Skills](https://skillicons.dev/icons?i=react,figma,css,html,js,git)](https://skillicons.dev)
 </div>
 
