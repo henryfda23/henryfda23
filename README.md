@@ -7,18 +7,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryfda23&layout=compact&langs_count=6&theme=midnight-purple"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Henry-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Henry-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Henry-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Henry-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Henry-BootStrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Henry-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Henry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+<div style="display: inline_block"><br>
   
-  #
- 
+<!--- # "Verify icons availability here https://github.com/tandpfun/skill-icons" -->
+
+[![My Skills](https://skillicons.dev/icons?i=react,figma,css,html,js,git)](https://skillicons.dev)
+</div>
+
 <div> 
   <a href="https://instagram.com/henry.fda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black&color=black" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henryfda23" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
