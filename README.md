@@ -11,7 +11,7 @@
 
 <div style="display: inline_block"><br>
    
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,css,html,js,git,react,nodejs,typescript,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,css,html,js,git,react,typescript)](https://skillicons.dev)
 </div>
 
 <div> 
