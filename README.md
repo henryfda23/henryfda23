@@ -2,9 +2,8 @@
 
 ## Hello! I'm Henry 👋
 
-🎓 Technical Degree in Systems Development
-🎓 Currently studying **Systems Analysis and Development (ADS)**
-
+🎓 Technical Degree in Systems Development <br>
+🎓 Currently studying Systems Analysis and Development (ADS) <br>
 💻 Front-End Developer
 
 Strong knowledge of **HTML and CSS**, currently improving my **JavaScript** skills while building projects and exploring modern web development.
