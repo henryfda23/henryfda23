@@ -17,7 +17,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-stats-extended.vercel.app/api/?username=henryfda23&show_icons=true&theme=dark&rank_icon=github&custom_title=Henry's+Stats&include_all_commits=true&disable_animations=true&number_format=long" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=henryfda23&langs_count=4&custom_title=Henry's+Stats&show_icons=true&theme=dark&rank_icon=github&disable_animations=true" />
+<img src="https://github-stats-extended.vercel.app/api/?username=henryfda23&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&disable_animations=false&number_format=long"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=henryfda23&langs_count=8&show_icons=true&theme=dark&rank_icon=github&disable_animations=false&number_format=long"/>
 </p>
 
